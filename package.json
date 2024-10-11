@@ -2,7 +2,7 @@
   "name": "my-material-ui-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rudra420-123.github.io/Simple_Portfolio",
+  "homepage": "https://rudra420-123.github.io/",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
