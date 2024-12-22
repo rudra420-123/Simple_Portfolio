@@ -17,6 +17,7 @@ Hello! I'm **Rudra Prasad Nayak**, a passionate **MERN Stack Developer** and a *
 - **Frameworks**: React.js, Bootstrap, Material UI, Tailwind CSS, SCSS
 - **Backend Skills**: Node.js, Express.js
 - **Database Skills**: SQL, Oracle, PL/SQL, MongoDB
+- **Operating Systems**: Windows, Linux
 - **Version Control**: Git, GitHub, Netlify
 - **Designing Tools**: Figma, Canva
 
